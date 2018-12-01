@@ -4,7 +4,7 @@
 
 Certificate Generator aims to automatically generate certificates based on the data provided using input files like CSV and Excel.
 
-## Target Audience
+## Targeted Audience
 * _**Certificate Issuing Organizations:**_ The Certificate issuing organization will first have to register themselves for authorization. They can generate multiple certificates simply by selecting the template and giving the candidates details through files like csv and excel.
 
 * _**Candidates Receiving the Certificates:**_  The Candidate's dashboard will contain the URLs of all the certificates they have received. This will help them in maintaining all the certificates even if they have lost them locally.
